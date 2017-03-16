@@ -1,5 +1,6 @@
 #INITIALIZE WITH JQUERY
-```<script type="text/javascript">
+```
+<script type="text/javascript">
 $(document).ready(function(){
 var contact = new GPSForm({
   id: "dc3027d0-b6da-4ce8-b550-0ba68a1c1a2e", // Set in dynamo with uuid https://www.uuidgenerator.net/
@@ -13,4 +14,7 @@ var contact = new GPSForm({
 contact.init();
 });
 
-</script>```
+</script>
+```
+
+##Have fun!
