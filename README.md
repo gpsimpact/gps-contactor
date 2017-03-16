@@ -1,4 +1,4 @@
-#INITIALIZE WITH JQUERY
+# INITIALIZE WITH JQUERY
 ```
 <script type="text/javascript">
 $(document).ready(function(){
@@ -17,4 +17,4 @@ contact.init();
 </script>
 ```
 
-##Have fun!
+## Have fun!
